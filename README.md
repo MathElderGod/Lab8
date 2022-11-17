@@ -1,1 +1,3 @@
 # Lab 8 - Starter
+1. Within a Github action that runs whenever code is pushed, because it ensures code is continuosly checked for quality. It also ensure that the entire project remains up to date in terms of expected output and performance. 
+2. No, because End-to-end testing is a way for developers to automate test cases that involve emulating user actions from start to finish (end to end), rather than the way our code actually acts during certain actions. 
