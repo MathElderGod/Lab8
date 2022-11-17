@@ -2,7 +2,7 @@
 
 const functions = require('../code-to-unit-test/unit-test-me.js');
 
-// TODO - Part 2
+// DONE - Part 2
 
 // isPhoneNumber 4 tests
 // isPhoneNumber first truth test
